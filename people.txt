@@ -1,0 +1,7 @@
+id	Name	Joined	likesPaintballing
+1	Dave	06/02/2023	TRUE
+2	Gabriel	06/02/2023	TRUE
+3	Mark	15/06/2021	FALSE
+4	Holly	08/01/2020	FALSE
+5	Felipe	24/01/2022	TRUE
+6	Arran	28/07/2021	FALSE
